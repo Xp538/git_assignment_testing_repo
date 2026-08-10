@@ -69,3 +69,9 @@ processs to create new branch and merging to main branch:
 5. Commit the changes using the command: git commit -m "your commit message"
 6. Switch back to the main branch using the command: git checkout main
 7. Merge the changes from the new branch into the main branch using the command: git merge <branch-name>
+
+
+
+we can also merge branch from github platform manually by creating a pull request. This allows for code review and discussion before merging the changes into the main branch.
+
+
