@@ -75,3 +75,5 @@ processs to create new branch and merging to main branch:
 we can also merge branch from github platform manually by creating a pull request. This allows for code review and discussion before merging the changes into the main branch.
 
 
+what is fork? 
+A fork in Git is a copy of a repository under your own account. It allows you to freely experiment with changes without affecting the original project. You can make changes to your forked repository and then submit a pull request to the original repository to propose your changes for inclusion.
